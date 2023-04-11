@@ -1,2 +1,3 @@
 Welcome to the home page of my web app
 New photo image is added as an update
+badguy was added to homepage.txt
